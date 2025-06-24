@@ -45,6 +45,7 @@ The dataset used in this project is sourced from **Kaggle's Financial News Datas
 - `dataset/`: Contains the raw dataset (financial news headlines).
 - `notebook/`: Jupyter notebooks for data preprocessing, model training, and evaluation metrics, comparison tables, and graphs.
 - `Project proposal/`: Updated Project proposal.
+- `Project poster/`: Updated Project poster.
 - `README.md`: Project overview and instructions.
 
 ## Evaluation Metrics
