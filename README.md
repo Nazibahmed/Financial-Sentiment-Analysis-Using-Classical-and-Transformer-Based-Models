@@ -93,7 +93,3 @@ The performance of each model is compared to assess the effectiveness of **trans
 - Further tuning of **BERT** and **FinBERT** models on domain-specific financial data.
 - Investigating ensemble learning approaches to combine the strengths of classical models and transformers.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
