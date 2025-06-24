@@ -57,25 +57,6 @@ The performance of each model is evaluated using the following metrics:
 - **F1-Score**
 - **Confusion Matrix**
 
-## Installation and Setup
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/financial-sentiment-analysis.git
-    cd financial-sentiment-analysis
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Download the dataset and place it in the `data/` directory.
-
-4. Run the Jupyter notebooks in the `notebooks/` directory to preprocess the data, train the models, and evaluate their performance.
-
 ## Model Training and Evaluation
 
 1. Preprocess the dataset (convert text to lowercase, remove punctuation, URLs, and expand financial terms).
